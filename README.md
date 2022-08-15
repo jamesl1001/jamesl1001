@@ -1,4 +1,5 @@
-<h1 align="center">Hey I'm James, a web developer with a PhD in Digital Arts.</h1>
+<h1 align="center">Hey I'm James, a front-end web developer with a PhD in Digital Arts.</h1>
+<!--
 <p align="center">
   <a href="https://jamesalexanderlee.co.uk" target="_blank"><img align="center" src="https://jamesalexanderlee.co.uk/img/icons/react.svg" width="32" height="32" /></a>
   <a href="https://jamesalexanderlee.co.uk" target="_blank"><img align="center" src="https://jamesalexanderlee.co.uk/img/icons/html5.svg" width="32" height="32" /></a>
@@ -12,6 +13,7 @@
   <a href="https://jamesalexanderlee.co.uk" target="_blank"><img align="center" src="https://jamesalexanderlee.co.uk/img/icons/cordova.svg" width="32" height="32" /></a>
   <a href="https://jamesalexanderlee.co.uk" target="_blank"><img align="center" src="https://jamesalexanderlee.co.uk/img/icons/photoshop.svg" width="32" height="32" /></a>
 </p>
+-->
 <p align="center">
-  <a href="https://jamesalexanderlee.co.uk" target="_blank">https://jamesalexanderlee.co.uk</a>
+  <a href="https://jal.dev" target="_blank">https://jal.dev</a>
 </p>

@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm James, a lead front-end developer with a PhD in mental health tech.</h1>
+<h1 align="center">Hey I'm James, a senior front-end engineer with a PhD in mental health tech.</h1>
 <!--
 <p align="center">
   <a href="https://jamesalexanderlee.co.uk" target="_blank"><img align="center" src="https://jamesalexanderlee.co.uk/img/icons/react.svg" width="32" height="32" /></a>
